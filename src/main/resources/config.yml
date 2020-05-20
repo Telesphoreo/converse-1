@@ -1,9 +1,9 @@
 #
-# ConversePlugin Configuration File
+# PramireProXConverseVersatilityFreedomModCraft69 Configuration File
 #
 
 # URL where players should appeal their bans
-banurl: https://unraveledmc.com/appeal
+banurl: https://PramireProXConverseVersatilityFreedomModCraft69.com/appeal
 
 # What mode is the server in?
 mode: default
@@ -40,14 +40,14 @@ permissions:
 tablist:
   # What should the header be?
   header:
-    - "&7Unraveled&8MC"
+    - "&7PramireProXConverseVersatilityFreedomModCraft69&8MC"
     - "&8--+--"
 
   # What should the footer be?
   footer:
     - "&8--+--"
-    - "&7unraveledmc.com"
-    - "&7discord.gg/Wab3tFq"
+    - "&7PramireProXConverseVersatilityFreedomModCraft69mc.com"
+    - "&7discord.gg/d1ck"
 
 #Configuration Settings!
 config:
