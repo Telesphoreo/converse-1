@@ -3,5 +3,5 @@ version: ${project.version}
 description: Plugin for PramireProXConverseVersatilityFreedomModCraft
 author: Telesphoreo
 main: net.novelmc.ConversePlugin
-depend: [LuckPerms]
-api-version: 1.14
+depend: [LuckPerms, ProtocolLib]
+api-version: 1.15
